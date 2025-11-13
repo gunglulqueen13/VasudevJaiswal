@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Animated Header"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://media1.tenor.com/m/bQv81u4pK_YAAAAC/luffy-mini-luffy.gif)" alt="Animated Header"/>
 </p>
 
 <!-- Typing SVG -->
